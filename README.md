@@ -105,4 +105,6 @@ This project showcases my understanding of Data Warehousing concepts using Micro
 I am eager to apply my technical skills, learn from industry professionals, and contribute to real-world data engineering and analytics projects.
 
 Thank you for visiting this repository. Feedback and suggestions are always welcome!
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddardhac2/)

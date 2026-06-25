@@ -97,3 +97,12 @@ data-warehouse-project/
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
+
+Hi, I'm Siddardha, a recent Computer Science graduate and an aspiring Data Engineer actively seeking opportunities to start my career in the data domain.
+
+This project showcases my understanding of Data Warehousing concepts using Microsoft SQL Server, including database design, data transformation, querying, and analytical reporting. Through this project, I gained hands-on experience in working with structured data and building solutions that support data-driven decision making.
+
+I am eager to apply my technical skills, learn from industry professionals, and contribute to real-world data engineering and analytics projects.
+
+Thank you for visiting this repository. Feedback and suggestions are always welcome!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddardhac2/)
